@@ -1,0 +1,63 @@
+#test
+{
+    color: rgb(238, 43, 43);
+    font-weight: bolder;
+}
+.test2
+{
+    color:rgb(231, 72, 14);
+    font-size: 150%;
+    font-weight: bolder;
+}
+.test3
+{
+    font-weight: 550;
+}
+#test4
+{
+    background-color: yellow;
+    font-weight: 600;
+
+}
+.test5
+{
+    text-decoration: line-through;
+    
+    font-style:normal;
+}
+#test6
+{
+
+    color:brown;
+    text-decoration:underline;
+    font-style: oblique;
+    
+}
+#test7
+{
+    color: rgb(231, 72, 14);
+    font-size: 150%;
+    font-weight: bolder;
+    font-style:oblique;
+}
+.test8
+{
+    letter-spacing: 4px;
+    font-weight:620;
+}
+.test9
+{
+    font-weight:500;
+}
+
+#test10
+{
+    font-style: oblique;
+    font-weight: 600;
+    color:darkred
+    
+}
+#test10
+{
+    background-color: yellow;
+}
